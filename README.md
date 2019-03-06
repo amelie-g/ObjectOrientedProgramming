@@ -1,1 +1,2 @@
-# csc600-a5# csc600
+# csc600-a5
+See PDF for assignment description
